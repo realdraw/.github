@@ -1,4 +1,4 @@
-## ![리얼드로우](https://realdraw.ai/logo_kor.png)  리얼드로우
+## ![리얼드로우](https://realdraw.ai/logo_kor.png)
 
 * [realdraw](https://realdraw.ai/)
   
