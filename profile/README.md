@@ -1,5 +1,5 @@
-## ![리얼드로우](https://realdraw.ai/logo_kor.png)
 
+## 홈페이지
 * [realdraw](https://realdraw.ai/)
   
 <!--
